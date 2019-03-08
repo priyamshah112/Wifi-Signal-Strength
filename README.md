@@ -2,6 +2,7 @@
 A App to check wifi signal strength in dbm and store in a file periodically.
 
 # Images
-<img src="./wss1.PNG width="100px" >
-<img src="./wss2.PNG width="100px" >
-<img src="./wss3.PNG width="100px" >
+![alt wss1](https://raw.githubusercontent.com/priyamshah112/Wifi-Signal-Strength/blob/master/wss1.PNG)
+![alt wss2](https://raw.githubusercontent.com/priyamshah112/Wifi-Signal-Strength/blob/master/wss2.PNG)
+![alt wss3](https://raw.githubusercontent.com/priyamshah112/Wifi-Signal-Strength/blob/master/wss3.PNG)
+
