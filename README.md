@@ -2,4 +2,5 @@
 A App to check wifi signal strength in dbm and store in a file periodically.
 
 # Demo
-<video src="demo.mp4" />
+
+![Demo](https://github.com/priyamshah112/Wifi-Signal-Strength/blob/master/demo.gif)
