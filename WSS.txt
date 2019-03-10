@@ -1,0 +1,27 @@
+############
+Sun Mar 10 17:56:39 GMT+05:30 2019
+		Signal Strength of <unknown ssid>
+
+		Mac Address = 02:00:00:00:00:00
+
+		RSSI = -40 dbm 
+
+		Level = 4 out of 5
+############
+Sun Mar 10 17:56:44 GMT+05:30 2019
+		Signal Strength of <unknown ssid>
+
+		Mac Address = 02:00:00:00:00:00
+
+		RSSI = -45 dbm 
+
+		Level = 4 out of 5
+############
+Sun Mar 10 17:57:39 GMT+05:30 2019
+		Signal Strength of <unknown ssid>
+
+		Mac Address = 02:00:00:00:00:00
+
+		RSSI = -127 dbm 
+
+		Level = 0 out of 5
