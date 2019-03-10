@@ -11,29 +11,40 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:hint="Signal Strength (in dbm )" />
+        android:layout_height="300dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-black"
+        android:hint="    Signal Strength (in dbm )"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="200dp"
-        android:text="Check Wifi Signal Strength" />
+        android:layout_below="@id/textView"
+        android:background="@color/colorAccent"
+        android:fontFamily="sans-serif-black"
+        android:text="Check Wifi Signal Strength"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="250dp"
-        android:text="Save to File WSS.txt" />
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/button5"
+        android:background="@color/colorAccent"
+        android:fontFamily="sans-serif-black"
+        android:text="Save to File WSS.txt"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="300dp"
-        android:text="TextView" />
 
 
 </RelativeLayout>
